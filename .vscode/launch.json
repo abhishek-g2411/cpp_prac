@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Abhishek Gupta/Desktop/c++ prom/practice1",
-      "program": "c:/Users/Abhishek Gupta/Desktop/c++ prom/practice1/build/Debug/outDebug",
+      "cwd": "c:/Users/Abhishek Gupta/Desktop/c++ prom/pract2",
+      "program": "c:/Users/Abhishek Gupta/Desktop/c++ prom/pract2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
