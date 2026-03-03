@@ -9,7 +9,7 @@ int main() {
         s[i] == 'u') {
       cout << s[i] << " ";
       // c++;g++ volcnt.cpp -o volcnt
-
+//bjfkerg
       c = c + 1;
       // c+=1;
     }
